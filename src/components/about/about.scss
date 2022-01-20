@@ -3,7 +3,7 @@
 .about-container {
   border-top: rgb(228, 94, 94) 5px solid;
   display: flex;
-
+  height: calc(100vh - 70px);
   flex-direction: column;
   .top {
     flex: 0.7;
@@ -29,6 +29,10 @@
 
         padding: 35px;
         background-color: #2a2e33;
+        @include mobile {
+          font-size: 15px;
+          padding: 10px;
+        }
 
         h1 {
           color: white;
@@ -37,7 +41,7 @@
           font-size: 30px;
         }
         p {
-          margin-top: 15px;
+          margin: 0;
           color: white;
           width: 90%;
           font-size: 22px;
@@ -49,6 +53,10 @@
         }
       }
       .random-stuff {
+        @include mobile {
+          font-size: 15px;
+          padding: 10px;
+        }
         padding: 20px;
         flex: 0.5;
         padding: 35px;
@@ -59,12 +67,18 @@
         ul {
           list-style-position: inside;
           margin-top: 10px;
+          @include mobile {
+            margin-top: 0px;
+          }
         }
         li {
           font-size: 22px;
           font-weight: 300;
           padding-top: 10px;
           display: inline-block;
+          @include mobile {
+            font-size: 15px;
+          }
         }
       }
     }
