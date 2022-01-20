@@ -1,5 +1,5 @@
 import React from "react";
-import "./imageCom.css";
+import "./imageCom.scss";
 
 export const ImageCom = (props) => {
   return (

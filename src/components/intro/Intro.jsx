@@ -9,11 +9,7 @@ export default function Intro() {
       showCursor: true,
       backDelay: 1500,
       backSpeed: 60,
-      strings: [
-        "a Full Stack JavaScript Web Developer. ",
-        "Fun",
-        "Good Cook...!",
-      ],
+      strings: ["Full Stack Web Developer. ", "Fun", "Good Cook...!"],
     });
   }, []);
   return (
@@ -31,7 +27,7 @@ export default function Intro() {
             I 'm <span ref={textRef}> </span>
           </h3>
         </div>
-        <a href="#portfolio">
+        <a href="#about">
           <img src="assets/down.png" alt="" />
         </a>
       </div>
