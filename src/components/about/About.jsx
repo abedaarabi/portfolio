@@ -1,41 +1,41 @@
-import ImageCom from "../imageCom/ImageCom";
+// import ImageCom from "../imageCom/ImageCom";
 import "./about.scss";
 // import Award from "../../img/award.png";
 
-const imageData = [
-  {
-    image: "https://img.icons8.com/color/480/000000/javascript--v1.png",
-    id: 1,
-  },
-  {
-    image: "https://img.icons8.com/color/480/000000/typescript.png",
-    id: 2,
-  },
-  {
-    image: "https://img.icons8.com/color/480/000000/react-native.png",
-    id: 2,
-  },
-  {
-    image: "https://img.icons8.com/color/480/000000/redux.png",
-    id: 2,
-  },
-  {
-    image: "https://img.icons8.com/color/480/000000/nodejs.png",
-    id: 2,
-  },
-  {
-    image: "https://img.icons8.com/ios-filled/500/000000/git.png",
-    id: 2,
-  },
-  {
-    image: "https://img.icons8.com/ios/500/000000/mysql-logo.png",
-    id: 2,
-  },
-  {
-    image: "https://img.icons8.com/color/480/000000/graphql.png",
-    id: 2,
-  },
-];
+// const imageData = [
+//   {
+//     image: "https://img.icons8.com/color/480/000000/javascript--v1.png",
+//     id: 1,
+//   },
+//   {
+//     image: "https://img.icons8.com/color/480/000000/typescript.png",
+//     id: 2,
+//   },
+//   {
+//     image: "https://img.icons8.com/color/480/000000/react-native.png",
+//     id: 2,
+//   },
+//   {
+//     image: "https://img.icons8.com/color/480/000000/redux.png",
+//     id: 2,
+//   },
+//   {
+//     image: "https://img.icons8.com/color/480/000000/nodejs.png",
+//     id: 2,
+//   },
+//   {
+//     image: "https://img.icons8.com/ios-filled/500/000000/git.png",
+//     id: 2,
+//   },
+//   {
+//     image: "https://img.icons8.com/ios/500/000000/mysql-logo.png",
+//     id: 2,
+//   },
+//   {
+//     image: "https://img.icons8.com/color/480/000000/graphql.png",
+//     id: 2,
+//   },
+// ];
 
 export const About = () => {
   return (
