@@ -66,7 +66,7 @@ export const About = () => {
             <div>
               <ul>
                 <li>
-                  I have a bachelor in construction management and facility
+                  I have a bachelor's in construction management and facility
                   management.
                 </li>
                 <li>
@@ -76,11 +76,11 @@ export const About = () => {
                       (Sorte Firkant)
                     </a>
                   </span>{" "}
-                  in my free time for fun. Oh ofc to do make great coktails.
+                  in my free time for fun. Oh, ofc to do make great cocktails.
                 </li>
                 <li>
-                  i believe that i can improve in the environment, there for i
-                  careated a{" "}
+                  I believe that I can improve the environment, there for I
+                  created a{" "}
                   <span>
                     <a href="https://forge.autodesk.com/customer-stories/moe ">
                       Tool
@@ -90,8 +90,8 @@ export const About = () => {
                   sustainability.
                 </li>
                 <li>
-                  I am in love of learn and adubting new technologies. Simply
-                  thats makes me feel more happy!
+                  I am in love with learning and adopting new technologies.
+                  Simply that makes me feel happier!
                 </li>
               </ul>
             </div>
