@@ -22,7 +22,7 @@ const data = [
     id: 4,
     link: "https://github.com/HackYourFuture-CPH/Guide-IT",
     icon: "assets/mobile.png",
-    text: " !!!444 ipsum dolor sit amet consectetur adipisicing elit  sit amet consectetur adipisicing elit  sit amet consectetur adipisicing elit",
+    text: " IoT platform with BIM 3D model will allow the user to interact with all the build sensors, it will give them a control to decide on the air level temperature and more ",
   },
 ];
 function Works() {
