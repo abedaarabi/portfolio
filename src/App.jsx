@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import Navbar from "./components/navbar/Navbar";
 import Intro from "./components/intro/Intro";
-import Protfolio from "./components/protfolio/Protfolio";
+// import Protfolio from "./components/protfolio/Protfolio";
 import Works from "./components/works/Works";
 import Contact from "./components/contact/Contact";
 import { About } from "./components/about/About";

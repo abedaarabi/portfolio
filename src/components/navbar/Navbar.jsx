@@ -37,7 +37,10 @@ export default function Navbar({ menuOpen, setMenuOpen }) {
           </div>
           <div className="itemContainer">
             <span>
-              <a href="https://drive.google.com/uc?id=1-YcRD3uHw-KOZBHPRLh5CqQvnTpbACBl&export=download">
+              <a
+                href="https://drive.google.com/uc?id=1-YcRD3uHw-KOZBHPRLh5CqQvnTpbACBl"
+                target="blank"
+              >
                 <CloudDownloadOutlined className="icon" /> Resume
               </a>
             </span>

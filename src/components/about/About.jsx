@@ -55,10 +55,10 @@ export const About = () => {
               into simple visual representations that provide decision-makers
               with key environmental information about project materials. The
               tool will help cut carbon emissions and improve sustainability. As
-              a team player eager to learn and contribute, I hope to be taken
-              into consideration for a position as a full-stack/front-end
-              developer
+              a team player eager to learn and contribute.
             </p>
+            {/* I hope to be taken into consideration for a position as a
+            full-stack/front-end developer */}
           </div>
           <div className="random-stuff">
             <h1>Random Stuff</h1>
