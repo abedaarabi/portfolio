@@ -39,7 +39,7 @@ export default function Navbar({ menuOpen, setMenuOpen }) {
             <span>
               <a
                 href="https://drive.google.com/uc?id=1-YcRD3uHw-KOZBHPRLh5CqQvnTpbACBl"
-                target="blank"
+                target="_blank"
               >
                 <CloudDownloadOutlined className="icon" /> Resume
               </a>
